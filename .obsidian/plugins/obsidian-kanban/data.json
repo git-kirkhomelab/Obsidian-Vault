@@ -1,0 +1,20 @@
+{
+  "show-checkboxes": true,
+  "link-date-to-daily-note": true,
+  "prepend-archive-date": true,
+  "prepend-archive-separator": "ARCHIVE_DATE",
+  "date-picker-week-start": 1,
+  "time-format": "hh:mma",
+  "new-note-folder": "notes",
+  "show-relative-date": true,
+  "date-format": "YYYY-MM-DD",
+  "date-display-format": "YYYY-MM-DD ddd",
+  "metadata-keys": [
+    {
+      "metadataKey": "title",
+      "label": "Title",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
+}

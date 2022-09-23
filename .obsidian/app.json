@@ -1,0 +1,15 @@
+{
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments",
+  "legacyEditor": false,
+  "livePreview": true,
+  "showIndentGuide": false,
+  "spellcheck": true,
+  "communityPluginSortOrder": "release",
+  "communityThemeSortOrder": "release"
+}

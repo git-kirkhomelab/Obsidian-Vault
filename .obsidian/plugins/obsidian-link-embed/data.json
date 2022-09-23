@@ -1,0 +1,6 @@
+{
+  "parser": "microlink",
+  "backup": "jsonlink",
+  "inPlace": true,
+  "debug": false
+}

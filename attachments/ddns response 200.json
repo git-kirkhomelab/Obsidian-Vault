@@ -1,0 +1,9 @@
+{
+  "bulkId": "5906032f-9bd8-4605-a283-8e2ac6e1a24b",
+  "updateUrl": "https://ipv4.api.hosting.ionos.com/dns/v1/dyndns?q=MmJiNWE2MmFmN2VlNDJhNjgyYmJkZTk4N2IwOWUxZTEuQ1VSdlUtZFFNdndJYnc0VEQzX3NEU0RBem45TGIxYXJQN0YtZlFFZ2ZCazRQY0Nrb2pDUzJTaWhCcUZ6OVhZdm1CWmt1dFZPekR2Q0ZCTVJ6RXZ6LUE",
+  "domains": [
+    "kirkhomelab.online",
+    "homeserver.kirkhomelab.online"
+  ],
+  "description": "My DynamicDns"
+}

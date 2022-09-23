@@ -1,0 +1,18 @@
+{
+  "pluginList": [
+    "Quorafind/Obsidian-Memos",
+    "Quorafind/Obsidian-Task-Progress-Bar",
+    "Quorafind/Obsidian-Big-Calendar",
+    "fyears/remotely-save"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "ribbonIconEnabled": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

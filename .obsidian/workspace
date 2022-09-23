@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "459d8c52981dfec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "73b61cb6cf83f73d",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "7652f4fc74339abe",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bdaa56a8e7a8811",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d48e06d92165049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c2e8e9220a26ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d70ee3c5d8632aba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2ebfa31dd1f9ab3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "267be5618a5f739d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11591e08009dbd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "da77330321900eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc6dd4b10123d32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37c4315b8505d378",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f40fd51e25671f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "164467dacd574e66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd1d3fcfa339e217",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "38b99215edea2b11",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef2b306d525eed00",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "997f88489d4b6059",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "55c540d2349b4ba0",
+            "type": "leaf",
+            "state": {
+              "type": "hackernews-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "09c607adc9326b3c",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "73b61cb6cf83f73d",
+  "lastOpenFiles": [
+    "notes/daily/2022-09-23.md",
+    "templates/Daily Note Template.md",
+    "templates/daily test 1.md",
+    "templates/<% tp.file.title %>.md",
+    "notes/daily/2022-09-21.md",
+    "notes/daily/2022-08-28.md",
+    "notes/daily/2022-08-21.md",
+    "notes/daily/2022-08-14.md",
+    "templates/Template - Daily.md",
+    "templates/Weekly Note Template.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "fleeting_notes_folder": "/clips",
+  "note_template": "---\n# Metadata used for sync\nid: \"${id}\"\ntitle: \"${title}\"\ncreated: \"${datetime}\"\nsource: \"${source}\"\n---\n${content}",
+  "sync_on_startup": true,
+  "last_sync_time": "1970-01-01T00:00:00.000Z",
+  "sync_type": "one-way",
+  "username": "kirk@kirkhomelab.online",
+  "password": "homelab",
+  "encryption_key": ""
+}

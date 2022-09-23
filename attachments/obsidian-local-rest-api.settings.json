@@ -1,0 +1,44 @@
+{
+  "sync": {
+    "presets": [
+      {
+        "contentTemplate": "## {{page.title}}\nURL: {{page.url}}\n{{#if page.selectedText}}\n\n{{quote page.selectedText}}\n{{/if}}",
+        "headers": {},
+        "method": "post",
+        "name": "Append to current daily note",
+        "urlTemplate": "/periodic/daily/"
+      },
+      {
+        "contentTemplate": "---\npage-title: {{json page.title}}\nurl: {{page.url}}\ndate: \"{{date}}\"\n---\n{{#if page.selectedText}}\n\n{{quote page.selectedText}}\n{{/if}}",
+        "headers": {},
+        "method": "put",
+        "name": "Create new note",
+        "urlTemplate": "/vault/{{filename page.title}}.md"
+      },
+      {
+        "contentTemplate": "---\npage-title: {{json page.title}}\nurl: {{page.url}}\ndate: \"{{date}}\"\n---\n{{#if page.selectedText}}\n\n{{quote page.selectedText}}\n\n---\n\n{{/if}}{{page.content}}",
+        "headers": {},
+        "method": "put",
+        "name": "Capture page snapshot",
+        "urlTemplate": "/vault/{{filename page.title}}.md"
+      },
+      {
+        "contentTemplate": "## {{date}}\n{{#if page.selectedText}}\n\n{{quote page.selectedText}}\n{{/if}}",
+        "headers": {},
+        "method": "post",
+        "name": "Append to existing note",
+        "urlTemplate": ""
+      }
+    ],
+    "searchBackgroundEnabled": true,
+    "searchEnabled": true,
+    "searchMatchDirectTemplate": "Append to current daily note",
+    "searchMatchMentionTemplate": "Append to existing note",
+    "version": "0.1"
+  },
+  "local": {
+    "apiKey": "b635026a42f2a7c05483dd205f4e74522f9a7c44559fa1ddcfc7ea0a773305fa",
+    "insecureMode": false,
+    "version": "0.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Willemstad",
+  "enabledCssSnippets": [
+    "custom-admonitions.aa4d3a",
+    "dashboard",
+    "styles",
+    "supercharged-links-gen",
+    "todoist"
+  ],
+  "baseFontSize": 10,
+  "theme": "obsidian",
+  "textFontFamily": "Inter,Liberation Sans",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Liberation Mono",
+  "baseFontSizeAction": false
+}

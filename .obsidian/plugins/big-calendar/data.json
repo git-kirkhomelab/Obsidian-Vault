@@ -1,0 +1,6 @@
+{
+  "StartDate": "monday",
+  "InsertAfter": "# JOURNAL",
+  "ProcessEntriesBelow": "",
+  "DefaultEventComposition": "{TIME} {CONTENT}"
+}
